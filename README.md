@@ -1,5 +1,4 @@
 Resumo 
-# Título
 
 **Qual a diferença entre Framework e Biblioteca?**
 
