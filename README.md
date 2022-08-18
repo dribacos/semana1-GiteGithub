@@ -8,3 +8,4 @@ Logo, a biblioteca é possível criamos a base e o fluxo, e no framework a estru
 
 [saiba mais](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
 
+
